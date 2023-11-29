@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Bruno Lebar 
+
+Este Portfólio está em desenvolvimento... 
 <div>
   <a href="https://github.com/Bruno-Lebar-DEV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
