@@ -1,30 +1,22 @@
-## Olá! Eu sou o Bruno Lebar 
+# Bruno Lebar Carmo
 
-Este Portfólio está em desenvolvimento... 
-<div>
-  <a href="https://github.com/Bruno-Lebar-DEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-lebar-carmo/)](https://www.linkedin.com/in/bruno-lebar-carmo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolebarcarmo@gmail.com)](mailto:brunolebarcarmo@gmail.com)
+[![GitHub Bruno-Lebar-DEV](https://img.shields.io/github/followers/Bruno-Lebar-DEV?label=follow&style=social)](https://github.com/Bruno-Lebar-DEV)
 
-##
+## Hello Devs
+Eu sou Bruno Lebar e criei esse repositorio para organizar meus estudos
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.youtube.com/channel/UCWLOLGv_zzuzZ1MouPQajwg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/bruno_lebar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/bruno_lebar" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:brunolebarcarmo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-lebar-carmo-467b48227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<a href="https://github.com/Bruno-Lebar-DEV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=dracula" alt="Bruno-Lebar-DEV Github Stats" alt="Bruno-Lebar-DEV Github Status" />
+</a>
+
+
+## Tecnologias
+<a href="https://github.com/Bruno-Lebar-DEV">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&layout=compact&langs_count=16&theme=dracula"/>
+</a>
+
+
+
+
