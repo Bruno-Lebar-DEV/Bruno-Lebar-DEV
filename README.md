@@ -8,7 +8,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=dracula)](https://github.com/Bruno-Lebar-DEV)
 
-## :rocket: Technologies
+## :rocket: Skills
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,10 +18,10 @@
 
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&hide_progress=true)](https://github.com/Bruno-Lebar-DEV)
 
-## :video_game: My game projects
+## :video_game: Game projects
 
 - [Game 01](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
 
-## :movie_camera: My latest videos
+## :movie_camera: Latest videos
 
 - [Em produção](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
