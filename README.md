@@ -22,6 +22,14 @@
 
 - [Game 01](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
 
+## :iphone: Mobile projects
+
+- [App 01](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
+
+## :earth_americas: Web projects
+
+- [Site 01](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
+
 ## :movie_camera: Latest videos
 
 - [Em produção](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
