@@ -16,7 +16,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&hide_progress=true)](https://github.com/Bruno-Lebar-DEV)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&layout=compact)](https://github.com/Bruno-Lebar-DEV)
 
 ## :video_game: Game projects
 
