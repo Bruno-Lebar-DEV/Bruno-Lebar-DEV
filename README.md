@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolebarcarmo@gmail.com)](mailto:brunolebarcarmo@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Bruno-Lebar-DEV?label=follow&style=social)](https://github.com/Bruno-Lebar-DEV)
 
-### :hand: Hi Gamers & Devs! Welcome to my study repository.
+### :hand: Hi, Gamers and Developers! Welcome to my study repository!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=dracula)](https://github.com/Bruno-Lebar-DEV)
 
