@@ -42,7 +42,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | ExternalAPI-Integrations | Integrações externas em ADVPL | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/ExternalAPI-Integrations?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/ExternalAPI-Integrations?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/ExternalAPI-Integrations) |
 </details>
 
-<details>
+<details open>
 <summary>📱 <strong>Mobile</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -52,7 +52,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | MobileNativeApp | App nativo de tarefas | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/MobileNativeApp?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/MobileNativeApp?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/MobileNativeApp) |
 </details>
 
-<details>
+<details open>
 <summary>🌐 <strong>Web</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -64,20 +64,20 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | tutorial-poui | Tutoriais de TypeScript e PO-UI/Angular | 🚧 Desenvolvimento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/tutorial-poui?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/tutorial-poui?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/tutorial-poui) |
 </details>
 
-<details>
+<details open>
 <summary>☁️ <strong>APIs & Backend</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
 |---------|-----------|--------|---------------|---------|------|
-| TextAI_API | API de processamento de texto e NLP | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/TextAI_API?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/TextAI_API?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/TextAI_API) |
-| NodeExpressAPI | API REST robusta | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/NodeExpressAPI?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/NodeExpressAPI?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/NodeExpressAPI) |
+| TextAI_API | API de processamento de texto e NLP | 🚧 Desenvolvimento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/TextAI_API?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/TextAI_API?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/TextAI_API) |
+| NodeExpressAPI | API REST robusta | ✅ Concluído | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/NodeExpressAPI?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/NodeExpressAPI?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/NodeExpressAPI) |
 | PayFlow | Microsserviço de pagamentos assíncronos | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/PayFlow?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/PayFlow?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/PayFlow) |
 | SecureAPI | API REST com segurança avançada | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/SecureAPI?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/SecureAPI?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/SecureAPI) |
 | NoSQL-Advanced | Projeto avançado com MongoDB | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/NoSQL-Advanced?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/NoSQL-Advanced?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/NoSQL-Advanced) |
 | PowerBI-Integration | Integração de APIs com Power BI | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/PowerBI-Integration?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/PowerBI-Integration?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/PowerBI-Integration) |
 </details>
 
-<details>
+<details open>
 <summary>🕹️ <strong>Games</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -86,7 +86,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | GameProjects | Coleção de jogos em Java | 📦 Arquivado | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/GameProjects?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/GameProjects?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/GameProjects) |
 </details>
 
-<details>
+<details open>
 <summary>⚙️ <strong>DevOps & Infraestrutura</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -100,6 +100,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 - 📝 Planejamento
 - 🚧 Desenvolvimento
 - 📦 Arquivado
+- ✅ Concluído
 
 ---
 
