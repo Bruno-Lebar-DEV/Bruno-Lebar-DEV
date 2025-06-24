@@ -30,7 +30,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 
 ## 📚 Repositórios por Categoria
 
-<details open>
+<details>
 <summary>🟦 <strong>Protheus / TOTVS Solutions (ADVPL)</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -42,7 +42,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | ExternalAPI-Integrations | Integrações externas em ADVPL | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/ExternalAPI-Integrations?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/ExternalAPI-Integrations?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/ExternalAPI-Integrations) |
 </details>
 
-<details open>
+<details>
 <summary>📱 <strong>Mobile</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -52,7 +52,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | MobileNativeApp | App nativo de tarefas | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/MobileNativeApp?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/MobileNativeApp?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/MobileNativeApp) |
 </details>
 
-<details open>
+<details>
 <summary>🌐 <strong>Web</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -64,7 +64,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | tutorial-poui | Tutoriais de TypeScript e PO-UI/Angular | 🚧 Desenvolvimento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/tutorial-poui?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/tutorial-poui?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/tutorial-poui) |
 </details>
 
-<details open>
+<details>
 <summary>☁️ <strong>APIs & Backend</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -77,7 +77,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | PowerBI-Integration | Integração de APIs com Power BI | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/PowerBI-Integration?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/PowerBI-Integration?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/PowerBI-Integration) |
 </details>
 
-<details open>
+<details>
 <summary>🕹️ <strong>Games</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -86,7 +86,7 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | GameProjects | Coleção de jogos em Java | 📦 Arquivado | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/GameProjects?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/GameProjects?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/GameProjects) |
 </details>
 
-<details open>
+<details>
 <summary>⚙️ <strong>DevOps & Infraestrutura</strong></summary>
 
 | Projeto | Descrição | Status | Último Commit | Release | Link |
@@ -96,40 +96,32 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 
 ---
 
-### 🏷️ Legenda dos Status
-- 📝 Planejamento
-- 🚧 Desenvolvimento
-- 📦 Arquivado
-- ✅ Concluído
-
----
-
 ## 🛠️ Hard Skills
 
 ### 🖥️ Frontend
-- React.js ⚛️, Angular 🅰️, TypeScript, JavaScript, HTML5 & CSS3, PO-UI (TOTVS)
-- Flutter 🦋 (Dart), React Native 📱, Kotlin/Swift
+- React.js, Angular, TypeScript, JavaScript, HTML5 & CSS3, PO-UI (TOTVS)
+- Flutter (Dart), React Native, Kotlin/Swift
 
 ### 🖧 Backend
-- Node.js 🌐, Express.js 🚂, Java ☕ (Spring Boot), Python 🐍 (Django, FastAPI), ADVPL, REST API, WebSockets, RabbitMQ, Mongoose
+- Node.js, Express.js, Java (Spring Boot), Python (Django, FastAPI), ADVPL, REST API, WebSockets, RabbitMQ, Mongoose
 
 ### 🗄️ Banco de Dados
-- PostgreSQL 🐘, MySQL 🐬, SQL Server 🗃️, MongoDB 🍃, SQLite/CoreData
+- PostgreSQL, MySQL, SQL Server, MongoDB, SQLite/CoreData
 
 ### 🔒 Segurança
-- JWT 🔑, OAuth, MFA, Rate Limiting, Helmet.js, CORS, OWASP Top 10
+- JWT, OAuth, MFA, Rate Limiting, Helmet.js, CORS, OWASP Top 10
 
 ### ⚙️ DevOps & Cloud
-- Git & GitHub 🐙, GitHub Actions, Docker 🐳, Terraform, Prometheus & Grafana, Cloud (AWS, Azure, GCP)
+- Git & GitHub, GitHub Actions, Docker, Terraform, Prometheus & Grafana, Cloud (AWS, Azure, GCP)
 
 ### 🧪 Testes & Qualidade
 - Testes manuais, Jest, Cypress, PyTest, Testes automatizados e CI
 
 ### 📊 Visualização & Monitoramento
-- Chart.js 📊, D3.js, Power BI, Prometheus & Grafana
+- Chart.js, D3.js, Power BI, Prometheus & Grafana
 
 ### 🎮 Game Development
-- Unity (C#) 🎮, Pygame (Python), Java
+- Unity (C#), Pygame (Python), Java
 
 ---
 
