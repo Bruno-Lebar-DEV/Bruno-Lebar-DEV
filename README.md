@@ -104,65 +104,77 @@ Welcome to my portfolio! I am a Systems Analyst and Full Stack Developer with ov
 
 ---
 
-## 🛠️ Technical Skills
+## 👤 About Me
 
-### 🖥️ Frontend
-- React.js, Angular, TypeScript, JavaScript, HTML5 & CSS3, PO-UI (TOTVS)
-- Flutter (Dart), React Native, Kotlin/Swift
-
-### 🖧 Backend
-- Node.js, Express.js, Java (Spring Boot), Python (Django, FastAPI), ADVPL, REST API, WebSockets, RabbitMQ, Mongoose
-
-### 🗄️ Database
-- PostgreSQL, MySQL, SQL Server, MongoDB, SQLite/CoreData
-
-### 🔒 Security
-- JWT, OAuth, MFA, Rate Limiting, Helmet.js, CORS, OWASP Top 10
-
-### ⚙️ DevOps & Cloud
-- Git & GitHub, GitHub Actions, Docker, Terraform, Prometheus & Grafana, Cloud (AWS, Azure, GCP)
-
-### 🧪 Testing & Quality
-- Testes manuais, Jest, Cypress, PyTest, Testes automatizados e CI
-
-### 📊 Visualization & Monitoring
-- Chart.js, D3.js, Power BI, Prometheus & Grafana
-
-### 🎮 Game Development
-- Unity (C#), Pygame (Python), Java
-
+I am a passionate developer who believes in clean code, continuous learning, and building solutions that make a difference. I thrive in collaborative environments and enjoy tackling complex challenges with creativity and precision. My motivation comes from delivering value, learning new technologies, and helping teams succeed.
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Achievements & Certifications
+
+- TOTVS Protheus Certified Professional
+- AWS Certified Cloud Practitioner
+- Hackathon Winner: Best Integration Project (2024)
+- Speaker at TechMeet Guarulhos 2023
+
+---
+
+## 📌 Pinned Projects / Featured Work
+
+### [CRMPro-MVC](https://github.com/Bruno-Lebar-DEV/CRMPro-MVC)
+- Enterprise CRM for Protheus using MVC
+- Key Features: Modular architecture, RESTful APIs, advanced user management
+- Technologies: ADVPL, MVC, REST, SQL
+
+### [TextAI_API](https://github.com/Bruno-Lebar-DEV/TextAI_API)
+- NLP and text processing API
+- Key Features: Sentiment analysis, entity recognition, fast REST endpoints
+- Technologies: Python, FastAPI, NLP, Docker
+
+### [WebDashboard](https://github.com/Bruno-Lebar-DEV/WebDashboard)
+- Real-time analytics dashboard
+- Key Features: Dynamic charts, live data, responsive UI
+- Technologies: React, Chart.js, Node.js
+
+---
+
+## 💬 Testimonials
+
+> "Bruno is a highly skilled developer with a strong sense of responsibility and teamwork. He consistently delivers high-quality solutions and is always willing to help others."  
+> <em>— Former Team Lead, TOTVS Project</em>
+
+> "His expertise in integrations and backend development made a huge difference in our project delivery."  
+> <em>— Project Manager, TechMeet 2023</em>
+
+---
+
+## 🚀 Tech Stack Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Lebar-DEV&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,flutter,python,java,spring,fastapi,nodejs,docker,aws,azure,gcp,mongodb,postgres,mysql,git,github,terraform,unity" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📬 Contact & Professional Links
+## 📝 Blog & Articles
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-lebar-carmo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:brunolebarcarmo@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Bruno-Lebar-DEV">
-    <img src="https://img.shields.io/badge/-Portfolio-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+- [How to Build Robust Integrations in Protheus](https://dev.to/brunolebarcarmo/protheus-integrations)
+- [Modernizing Legacy Systems with REST APIs](https://dev.to/brunolebarcarmo/legacy-rest)
+- [Best Practices for Clean Code in ADVPL](https://dev.to/brunolebarcarmo/clean-advpl)
+
+---
+
+## 🌍 Languages
+
+- Portuguese: Native
+- English: Advanced (C1)
+- Spanish: Intermediate
+
+---
+
+## 📣 How to Contact Me
+
+> **Interested in working together? [Email me](mailto:brunolebarcarmo@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/bruno-lebar-carmo/)!**
 
 ---
 
