@@ -1,34 +1,34 @@
-# 👋 Olá, eu sou Bruno Lebar Carmo
+# 👋 Hello, I'm Bruno Lebar Carmo
 
-Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais de 5 anos de experiência em ADVPL (TOTVS Protheus), especialista em MVC, WebServices, gestão de releases e integrações. Apaixonado por tecnologia, busco aprendizado contínuo e estou expandindo minhas habilidades para stacks globais.
+Welcome to my portfolio! I am a Systems Analyst and Full Stack Developer with over 5 years of experience in ADVPL (TOTVS Protheus), specializing in MVC, WebServices, release management, and integrations. Passionate about technology, I am committed to continuous learning and expanding my skills to global stacks.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruno-lebar-carmo/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:brunolebarcarmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://github.com/Bruno-Lebar-DEV"><img src="https://img.shields.io/github/followers/Bruno-Lebar-DEV?label=follow&style=social" /></a>
+  <a href="https://www.linkedin.com/in/bruno-lebar-carmo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:brunolebarcarmo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/Bruno-Lebar-DEV"><img src="https://img.shields.io/github/followers/Bruno-Lebar-DEV?label=Follow&style=for-the-badge&logo=github&color=171515" /></a>
 </p>
 
 ---
 
-## 📑 Sumário
-- [Perfil Profissional](#perfil-profissional)
-- [Repositórios por Categoria](#repositórios-por-categoria)
-- [Hard Skills](#hard-skills)
-- [Contato](#contato)
+## 📋 Table of Contents
+- [Professional Profile](#-professional-profile)
+- [Repository Categories](#-repository-categories)
+- [Technical Skills](#-technical-skills)
+- [Contact & Professional Links](#-contact--professional-links)
 
 ---
 
-## 🚩 Perfil Profissional
+## 🚩 Professional Profile
 
-- 💼 **Analista de Sistemas | Full Stack Developer | Especialista em Integrações**
-- 🏢 **TOTVS Protheus Expert:** 5+ anos com ADVPL, MVC, WebServices, Release Management, Integrações
-- 🌎 **Localização:** Guarulhos, SP, Brasil
-- 🌐 **Aberto a oportunidades internacionais e remotas**
-- 📚 **Aprendizado contínuo:** Foco em novas tecnologias e tendências globais
+- 💼 **Systems Analyst | Full Stack Developer | Integration Specialist**
+- 🏢 **TOTVS Protheus Expert:** 5+ years with ADVPL, MVC, WebServices, Release Management, Integrations
+- 🌎 **Location:** Guarulhos, SP, Brazil
+- 🌐 **Open to international and remote opportunities**
+- 📚 **Continuous learning:** Focused on new technologies and global trends
 
 ---
 
-## 📚 Repositórios por Categoria
+## 📚 Repository Categories
 
 <details>
 <summary>🟦 <strong>Protheus / TOTVS Solutions (ADVPL)</strong></summary>
@@ -94,9 +94,17 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 | DevOps-IaC | Infraestrutura como código, CI/CD | 📝 Planejamento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/DevOps-IaC?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/DevOps-IaC?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/DevOps-IaC) |
 </details>
 
+<details>
+<summary>📖 <strong>Study & Learning</strong></summary>
+
+| Projeto | Descrição | Status | Último Commit | Release | Link |
+|---------|-----------|--------|---------------|---------|------|
+| Study-Guide | Guia de estudos e anotações técnicas | 🚧 Em desenvolvimento | ![Último commit](https://img.shields.io/github/last-commit/Bruno-Lebar-DEV/Study-Guide?label=último%20commit) | ![Release](https://img.shields.io/github/v/release/Bruno-Lebar-DEV/Study-Guide?label=release) | [Ver](https://github.com/Bruno-Lebar-DEV/Study-Guide) |
+</details>
+
 ---
 
-## 🛠️ Hard Skills
+## 🛠️ Technical Skills
 
 ### 🖥️ Frontend
 - React.js, Angular, TypeScript, JavaScript, HTML5 & CSS3, PO-UI (TOTVS)
@@ -105,39 +113,66 @@ Bem-vindo ao meu portfólio! Sou Analista de Sistemas e Desenvolvedor com mais d
 ### 🖧 Backend
 - Node.js, Express.js, Java (Spring Boot), Python (Django, FastAPI), ADVPL, REST API, WebSockets, RabbitMQ, Mongoose
 
-### 🗄️ Banco de Dados
+### 🗄️ Database
 - PostgreSQL, MySQL, SQL Server, MongoDB, SQLite/CoreData
 
-### 🔒 Segurança
+### 🔒 Security
 - JWT, OAuth, MFA, Rate Limiting, Helmet.js, CORS, OWASP Top 10
 
 ### ⚙️ DevOps & Cloud
 - Git & GitHub, GitHub Actions, Docker, Terraform, Prometheus & Grafana, Cloud (AWS, Azure, GCP)
 
-### 🧪 Testes & Qualidade
+### 🧪 Testing & Quality
 - Testes manuais, Jest, Cypress, PyTest, Testes automatizados e CI
 
-### 📊 Visualização & Monitoramento
+### 📊 Visualization & Monitoring
 - Chart.js, D3.js, Power BI, Prometheus & Grafana
 
 ### 🎮 Game Development
 - Unity (C#), Pygame (Python), Java
 
----
-
-## 📬 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/bruno-lebar-carmo/)
-- [Email](mailto:brunolebarcarmo@gmail.com)
 
 ---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-Lebar-DEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Lebar-DEV&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Contact & Professional Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-lebar-carmo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brunolebarcarmo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://github.com/Bruno-Lebar-DEV">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Lebar-DEV&layout=compact" alt="GitHub Langs" />
+    <img src="https://img.shields.io/badge/-Portfolio-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  
+### 💡 *"Clean code always looks like it was written by someone who cares."*
+#### *- Robert C. Martin*
+
+**Available for freelance projects, consultancy, and full-time opportunities**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bruno-Lebar-DEV&color=blueviolet&style=for-the-badge)
+
+</div>
