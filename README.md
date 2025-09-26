@@ -1,20 +1,13 @@
 # 👋 Hello, I'm Bruno Lebar Carmo
 
-Welcome to my portfolio! I am a Systems Analyst and Full Stack Developer with over 5 years of experience in ADVPL (TOTVS Protheus), specializing in MVC, WebServices, release management, and integrations. Passionate about technology, I am committed to continuous learning and expanding my skills to global stacks.
+Welcome to my portfolio! I am a Systems Analyst and Full Stack Developer with over 5 years of experience in ADVPL (TOTVS Protheus), specializing in BackOffice, MVC, WebServices, release management, and integrations. Passionate about technology, I am committed to continuous learning and expanding my skills to global stacks.
 
 <p align="center">
+  <a href="https://www.youtube.com/@BrunoLebarDEV"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bruno-lebar-carmo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:brunolebarcarmo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="https://github.com/Bruno-Lebar-DEV"><img src="https://img.shields.io/github/followers/Bruno-Lebar-DEV?label=Follow&style=for-the-badge&logo=github&color=171515" /></a>
 </p>
-
----
-
-## 📋 Table of Contents
-- [Professional Profile](#-professional-profile)
-- [Repository Categories](#-repository-categories)
-- [Technical Skills](#-technical-skills)
-- [Contact & Professional Links](#-contact--professional-links)
 
 ---
 
@@ -112,39 +105,7 @@ I am a passionate developer who believes in clean code, continuous learning, and
 
 ## 🏆 Achievements & Certifications
 
-- TOTVS Protheus Certified Professional
-- AWS Certified Cloud Practitioner
-- Hackathon Winner: Best Integration Project (2024)
-- Speaker at TechMeet Guarulhos 2023
-
----
-
-## 📌 Pinned Projects / Featured Work
-
-### [CRMPro-MVC](https://github.com/Bruno-Lebar-DEV/CRMPro-MVC)
-- Enterprise CRM for Protheus using MVC
-- Key Features: Modular architecture, RESTful APIs, advanced user management
-- Technologies: ADVPL, MVC, REST, SQL
-
-### [TextAI_API](https://github.com/Bruno-Lebar-DEV/TextAI_API)
-- NLP and text processing API
-- Key Features: Sentiment analysis, entity recognition, fast REST endpoints
-- Technologies: Python, FastAPI, NLP, Docker
-
-### [WebDashboard](https://github.com/Bruno-Lebar-DEV/WebDashboard)
-- Real-time analytics dashboard
-- Key Features: Dynamic charts, live data, responsive UI
-- Technologies: React, Chart.js, Node.js
-
----
-
-## 💬 Testimonials
-
-> "Bruno is a highly skilled developer with a strong sense of responsibility and teamwork. He consistently delivers high-quality solutions and is always willing to help others."  
-> <em>— Former Team Lead, TOTVS Project</em>
-
-> "His expertise in integrations and backend development made a huge difference in our project delivery."  
-> <em>— Project Manager, TechMeet 2023</em>
+-- ADICIONAR CERTIFICAÇÕES AQUI -- 
 
 ---
 
@@ -156,19 +117,11 @@ I am a passionate developer who believes in clean code, continuous learning, and
 
 ---
 
-## 📝 Blog & Articles
-
-- [How to Build Robust Integrations in Protheus](https://dev.to/brunolebarcarmo/protheus-integrations)
-- [Modernizing Legacy Systems with REST APIs](https://dev.to/brunolebarcarmo/legacy-rest)
-- [Best Practices for Clean Code in ADVPL](https://dev.to/brunolebarcarmo/clean-advpl)
-
----
-
 ## 🌍 Languages
 
 - Portuguese: Native
-- English: Advanced (C1)
-- Spanish: Intermediate
+- English: Intermediate
+- Spanish: Basic
 
 ---
 
